@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ConvertCoin</string>
+    <string-array name="UnitedState">
+        <item name="name">UnitedState - Dollar</item>
+        <item name="rate">23550</item>
+        <item name="icon"></item>
+    </string-array>
+
+
+    <string-array name="VietNam">
+        <item name="name">VietNam - Dong</item>
+        <item name="rate">1</item>
+        <item name="icon"></item>
+    </string-array>
+
+
+    <string-array name="England">
+        <item name="name">England - Pound</item>
+        <item name="rate">29105.53</item>
+        <item name="icon"></item>
+    </string-array>
+
+
+    <string-array name="Malaysia">
+        <item name="name">Malaysia - Ringgit</item>
+        <item name="rate">5427.8434</item>
+        <item name="icon"></item>
+    </string-array>
+
+    <string-array name="Uruguay">
+        <item name="name">Uruguay - Peso</item>
+        <item name="rate">543.0359</item>
+        <item name="icon"></item>
+    </string-array>
+</resources>

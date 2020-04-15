@@ -1,0 +1,2 @@
+rootProject.name='ConvertCoin'
+include ':app'
